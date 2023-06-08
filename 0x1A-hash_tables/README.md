@@ -1,0 +1,1 @@
+Python dictionaries are constructed using hash tables. Upon completion of this project, you'll gain a deeper appreciation for the efficiency and ease of use that Python dictionaries provide. Despite the apparent simplicity of creating a dictionary with d = {'a': 1, 'b': 2}, a lot of complex processes are actually occurring behind the scenes. 
